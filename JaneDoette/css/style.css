@@ -1,5 +1,13 @@
+/*  Comments
+*   Mock Up Colors
+*   Orange  #F8981C
+*   Gray    #BCBBBB
+*   Green   #747704
+*/
+
 body{
-    background-color: bisque;
+    color: #747704;
+    font-family: 'Raleway', sans-serif;
 }
 
 .top-row{
